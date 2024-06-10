@@ -1,0 +1,9 @@
+ja:
+  activerecord:
+      errors:
+        views:
+         prototypes:
+          _form.html.erb: 
+            attributes:
+              image:
+                blank: "空になっています。入力してください。"
