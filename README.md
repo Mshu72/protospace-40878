@@ -40,5 +40,5 @@
 
 ### Association
 
-belongs_to :users
-belongs_to :comments
+belongs_to :user
+belongs_to :comment
